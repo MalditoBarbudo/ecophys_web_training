@@ -10,6 +10,14 @@
     "people/people.qmd": [
       "actual_members.yaml",
       "past_members.yaml"
+    ],
+    "people\\people.qmd": [
+      "actual_members.yaml",
+      "past_members.yaml"
+    ],
+    "research_projects\\research_projects.qmd": [
+      "*_project.qmd",
+      "*_former.qmd"
     ]
   }
 }

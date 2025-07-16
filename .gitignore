@@ -4,3 +4,5 @@ _site
 docs
 ecophys_web_training.Rproj
 .Renviron
+
+/.quarto/
