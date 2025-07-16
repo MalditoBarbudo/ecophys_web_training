@@ -1,0 +1,38 @@
+---
+title: "traces"
+image: "/img/bellota.webp"
+format: html
+---
+
+Increased drought in the context of climate warming will impact the structure, composition and functioning of the vegetation. The main objective of this project is to improve the ability to predict vegetation responses to drought stress and climate warming, taking into account different functional dimensions, intra- and interspecific variability of traits and their coordination at different scales. These issues will be addressed through global database analysis, community-level field sampling along environmental gradients and drought simulation experiments.
+
+ 
+
+It is expected that the increase in drought in the context of climate warming will impact the structure, composition, and function of vegetation across many regions, with significant feedback effects on key ecosystem services, including climate regulation. Forecasting these changes under different climate change scenarios has become a key goal of contemporary research in ecology and conservation science. Functional traits (i.e., measurable morphological, physiological, or phenological features at the individual level that affect demographic rates and fitness) provide a natural basis for predicting vegetation responses to environmental changes. However, most studies have found that the predictive power of commonly measured traits is low.
+
+Based on recent developments in trait-based ecology, we propose that the predictive power of traits could be improved by:
+(i) Measuring traits more closely linked to relevant physiological processes.
+(ii) Considering whole-plant trait coordination, corresponding functional modules or syndromes, and the evolutionary constraints underlying this coordination.
+(iii) Accounting for environmental context (e.g., stress exposure) and trait variability at different scales, including within species.
+
+We argue that two key functional dimensions, typically overlooked but critical to understanding and predicting vegetation responses to climate warming, are:
+
+Drought tolerance traits, including resource allocation and hydraulic architecture.
+Metabolomic features, associated with both primary and secondary (specialized) metabolism.
+ 
+
+Objectives
+The main goal of this proposal is to improve the ability to predict vegetation responses to drought stress and climate warming, considering different functional dimensions, trait variability, and their coordination across scales. Specifically, we will address the following questions:
+
+How are traits from different functional dimensions coordinated across species, and to what extent does this coordination reflect evolutionary constraints?
+How does trait coordination differ among species from distinct communities along an environmental gradient of water availability, and how is it related to their demography and biogeographic context?
+How does trait coordination change among populations across a water availability gradient spanning an entire species distribution? Does it differ from coordination at higher levels of organization? How is it linked to stress responses?
+ 
+
+Actions
+These questions will be addressed through three complementary approaches:
+
+An analysis of existing global databases, focusing on patterns among woody species (WP1).
+A community-level study in dry shrublands along an environmental gradient of water availability (WP2).
+A common garden experiment including populations from the entire distribution range of a model species and their response to experimental drought (WP3).
+

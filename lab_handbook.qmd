@@ -1,0 +1,13 @@
+---
+title: "lab_handbook"
+format: html
+---
+
+## Lab handbook
+
+
+Some explanation
+
+## Download it!!
+
+[Lab handbook (aka pablo publication)](/resources/SanchezMartinez_etal-2024_Methods_Ecol_Evol.pdf)

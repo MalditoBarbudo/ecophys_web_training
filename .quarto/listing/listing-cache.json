@@ -1,0 +1,15 @@
+{
+  "listingMap": {
+    "research_projects/research_projects.qmd": [
+      "B3049D40",
+      "research_projects/drastic_project.qmd",
+      "drastic_project.qmd",
+      "*_project.qmd",
+      "*_former.qmd"
+    ],
+    "people/people.qmd": [
+      "actual_members.yaml",
+      "past_members.yaml"
+    ]
+  }
+}

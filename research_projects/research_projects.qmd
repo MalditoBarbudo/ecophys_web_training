@@ -1,0 +1,25 @@
+---
+title: "Ecophys Research Projects"
+listing:
+  - id: ongoing
+    contents: "*_project.qmd"
+    type: grid
+  - id: former
+    contents: "*_former.qmd"
+    type: table
+    max-items: 3
+    fields: 
+      - image
+      - title
+---
+
+## Ongoing projects
+
+:::{#ongoing}
+:::
+
+
+## Former projects
+
+:::{#former}
+:::

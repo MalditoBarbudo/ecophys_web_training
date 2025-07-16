@@ -1,0 +1,15 @@
+---
+title: "Contact Us!"
+about:
+  template: jolla
+  image: "/img/bellota.webp"
+  image-shape: "round"
+  links:
+    - href: "mailto@Ecophys@creaf.uab.cat"
+      text: "Email"
+      icon: "envelope-at-fill"
+    - href: "link_to_creaf_group_page.html"
+      text: "CREAF web"
+---
+
+Some text about the Ecophys group, where we are and how to contact

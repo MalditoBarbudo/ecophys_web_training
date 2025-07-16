@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "EcoPhys"
+  navbar:
+    left:
+      - href: index.qmd
+        text: EcoPhys
+      - href: people/people.qmd
+        text: Team
+      - about.qmd
+      - text: Research
+        menu:
+          - href: research_projects/research_projects.qmd
+            text: Main research
+          - href: sapflux_research.qmd
+            text: SapFlux
+          - href: dummy.qmd
+            text: Dummy
+      - text: Others
+        menu:
+          - href: art_and_science/ecotons.qmd
+            text: Art residency
+          - href: lab_handbook.qmd
+            text: Our Lab Handbook
+    logo: "/img/bellota.webp"
+  page-footer:
+    left: |
+      Copyright 2025 |
+      Campus Bellaterra |
+      UAB
+    right: "![](img/bellota.webp)"
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: litera
+    css: styles.css
+    toc: false
+

@@ -1,0 +1,15 @@
+{
+  "hash": "5eec7f1bcb1887798cce312ed996019a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"ecophys_web_training\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n# A section\n\n## example subsection\n\n- unordered list\n  - sub-item 1\n  - sub-item 2\n    - sub-sub-item 1\n\n1. **a cat**\n1. *a house*\n1. **a mouse**\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
