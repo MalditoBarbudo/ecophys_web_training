@@ -2,7 +2,7 @@
   "hash": "377cb06e2a8b8d73c691ba0f42ef5f14",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Who we are\"\nformat: html\nlisting:\n  - id: actual\n    contents: \"actual_members.yaml\"\n    type: grid\n    fields: \n      - name\n      - position\n      - interests\n      - image\n    field-display-names:\n      name: \" \"\n      position: \"Position:\"\n      interests: \"I'm interested in:\"\n  - id: past\n    contents: \"past_members.yaml\"\n    type: table\n    fields: \n      - name\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'readxl' was built under R version 4.4.3\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'yaml' was built under R version 4.4.3\n```\n\n\n:::\n:::\n\n\n\n\n\n\n\n\n## Current group members\n\n:::{#actual}\n:::\n\n\n## Past group members\n\n:::{#past}\n:::\n",
+    "markdown": "---\ntitle: \"Who we are\"\nformat: html\nlisting:\n  - id: actual\n    contents: \"actual_members.yaml\"\n    type: grid\n    fields: \n      - name\n      - position\n      - interests\n      - image\n    field-display-names:\n      name: \" \"\n      position: \"Position:\"\n      interests: \"I'm interested in:\"\n  - id: past\n    contents: \"past_members.yaml\"\n    type: table\n    fields: \n      - name\n---\n\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n## Current group members\n\n:::{#actual}\n:::\n\n\n## Past group members\n\n:::{#past}\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
