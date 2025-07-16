@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/people/people.html",
+    "items": []
+  },
+  {
+    "listing": "/research_projects/research_projects.html",
+    "items": [
+      "/research_projects/drastic_project.html",
+      "/research_projects/sapfluxnet_former.html",
+      "/research_projects/traces_former.html"
+    ]
+  }
+]
